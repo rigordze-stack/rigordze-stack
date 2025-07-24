@@ -10,21 +10,21 @@ Soy desarrollador de software con experiencia en la creación de soluciones robu
 
 - **ToolTrackerERP**  
   ERP web orientado a ferreterías. ASP.NET Core MVC + PostgreSQL + Bootstrap 5. Incluye módulos de productos, ventas, compras, cotizaciones, dashboard con gráficas y carga masiva de datos.  
-  🔗 [Ver proyecto](https://github.com/RigoNetDev/ToolTrackerERP)
+  🔗 [Ver proyecto](https://github.com/rigordze-stack/ToolTrackerERP)
 
 - **MiniERP**  
   ERP completo para PyMEs con panel de control, importación de productos desde Excel y exportación a PDF.  
-  🔗 [Ver proyecto](https://github.com/RigoNetDev/MiniERP)
+  🔗 [Ver proyecto](https://github.com/rigordze-stack/MiniERP)
 
 - **NexCare System**  
-  Aplicación de escritorio en WPF que realiza mantenimiento del sistema operativo: limpieza de temporales, información del sistema, batería, CPU y RAM. UI moderna con MVVM.  
-  🔗 [Ver proyecto](https://github.com/RigoNetDev/NexCareSystem)
+  Aplicación de escritorio en WPF que realiza mantenimiento del sistema operativo: limpieza de temporales, información del sistema, batería, CPU y RAM. UI moderna con MVVM. 
+  🔗 [Ver proyecto](https://github.com/rigordze-stack/NexCareSystem)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-I specialize in building modern software solutions using a robust stack that includes:
+Me especializo en la creación de soluciones de software modernas, algunas son:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
