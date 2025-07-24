@@ -23,7 +23,7 @@ Soy desarrollador de software con experiencia en la creación de soluciones robu
 ---
 
 ## 🛠️ Tecnologías y herramientas
-
+<div align="center">
 Me especializo en la creación de soluciones de software modernas, algunas son:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -36,7 +36,7 @@ Me especializo en la creación de soluciones de software modernas, algunas son:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-2C5E9E?style=for-the-badge&logo=visualbasic&logoColor=white)
-
+</div>
 ---
 
 ## 📈 Estado
