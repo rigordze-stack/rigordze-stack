@@ -74,7 +74,7 @@ Este perfil y sus proyectos se encuentran en desarrollo activo. Se irán agregan
 
 - 📧 **rigordze@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rigoberto-rodriguez-dev/)
-- 💻 [GitHub]([https://github.com/rigordze-stack](https://github.com/rigordze-stack/rigordze-stack))
+- 💻 [GitHub](https://github.com/rigordze-stack/rigordze-stack)
 
 ---
 
