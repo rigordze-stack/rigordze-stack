@@ -1,6 +1,6 @@
 # 👨‍💻 Rigoberto Rodríguez
 
-**Full Stack .NET Developer | ASP.NET CORE | Bootstrap | WPF | C# | SQL | PostgreSQL | Azure | DevOps | Automation Enthusiast**
+**Full Stack .NET Developer | ASP.NET CORE | Bootstrap | WPF | C# | Python | SQL | PostgreSQL | Azure | DevOps | Automation Enthusiast**
 
 Soy desarrollador de software con experiencia en la creación de soluciones robustas, escalables y mantenibles. Me especializo en aplicaciones empresariales usando tecnologías modernas de Microsoft. En mi portafolio encontrarás proyectos reales orientados a mejorar procesos, automatizar tareas y entregar valor desde el primer día.
 
